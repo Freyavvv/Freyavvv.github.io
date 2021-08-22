@@ -1,42 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Somrat | Hugo Portfolio Template</title>
+    <title>Categories on Ziwei | Freya Design</title>
     <link>https://freyavvv.github.io/categories/</link>
-    <description>Recent content in Categories on Somrat | Hugo Portfolio Template</description>
+    <description>Recent content in Categories on Ziwei | Freya Design</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>2021</copyright>
+    <language>zh-cn</language>
     <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://freyavvv.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>database</title>
-      <link>https://freyavvv.github.io/categories/database/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://freyavvv.github.io/categories/database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>design</title>
-      <link>https://freyavvv.github.io/categories/design/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://freyavvv.github.io/categories/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://freyavvv.github.io/categories/development/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://freyavvv.github.io/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>logo</title>
+      <title>Logo</title>
       <link>https://freyavvv.github.io/categories/logo/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -45,11 +17,38 @@
     </item>
     
     <item>
-      <title>sketch</title>
-      <link>https://freyavvv.github.io/categories/sketch/</link>
+      <title>Unity</title>
+      <link>https://freyavvv.github.io/categories/unity/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://freyavvv.github.io/categories/sketch/</guid>
+      <guid>https://freyavvv.github.io/categories/unity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>交互</title>
+      <link>https://freyavvv.github.io/categories/%E4%BA%A4%E4%BA%92/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://freyavvv.github.io/categories/%E4%BA%A4%E4%BA%92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>其他</title>
+      <link>https://freyavvv.github.io/categories/%E5%85%B6%E4%BB%96/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://freyavvv.github.io/categories/%E5%85%B6%E4%BB%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>建模</title>
+      <link>https://freyavvv.github.io/categories/%E5%BB%BA%E6%A8%A1/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://freyavvv.github.io/categories/%E5%BB%BA%E6%A8%A1/</guid>
       <description></description>
     </item>
     
