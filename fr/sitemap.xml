@@ -14,18 +14,6 @@
                 href="https://freyavvv.github.io/fr/categories/"
                 />
   </url><url>
-    <loc>https://freyavvv.github.io/fr/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://freyavvv.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://freyavvv.github.io/fr/tags/"
-                />
-  </url><url>
     <loc>https://freyavvv.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,6 +24,18 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://freyavvv.github.io/fr/"
+                />
+  </url><url>
+    <loc>https://freyavvv.github.io/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://freyavvv.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://freyavvv.github.io/fr/tags/"
                 />
   </url>
 </urlset>

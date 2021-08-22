@@ -24,10 +24,19 @@
     <loc>https://freyavvv.github.io/tags/database/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
+    <loc>https://freyavvv.github.io/categories/database/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>https://freyavvv.github.io/tags/design/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
+    <loc>https://freyavvv.github.io/categories/design/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>https://freyavvv.github.io/tags/development/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://freyavvv.github.io/categories/development/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://freyavvv.github.io/categories/logo/</loc>
@@ -60,6 +69,22 @@
     <loc>https://freyavvv.github.io/tags/sketch/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
+    <loc>https://freyavvv.github.io/categories/sketch/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://freyavvv.github.io/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://freyavvv.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://freyavvv.github.io/"
+                />
+  </url><url>
     <loc>https://freyavvv.github.io/tags/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
@@ -91,35 +116,10 @@
     <loc>https://freyavvv.github.io/blog/blog-6/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://freyavvv.github.io/categories/unity/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>https://freyavvv.github.io/tags/web/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://freyavvv.github.io/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://freyavvv.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://freyavvv.github.io/"
-                />
-  </url><url>
-    <loc>https://freyavvv.github.io/categories/%E4%BA%A4%E4%BA%92/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://freyavvv.github.io/categories/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://freyavvv.github.io/categories/%E5%BB%BA%E6%A8%A1/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://freyavvv.github.io/funfacts0/</loc>
+    <loc>https://freyavvv.github.io/funfacts/</loc>
   </url><url>
     <loc>https://freyavvv.github.io/call-to-action/</loc>
   </url><url>
