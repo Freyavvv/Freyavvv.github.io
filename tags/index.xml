@@ -2,74 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ziwei | Freya Design</title>
-    <link>https://freyavvv.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Ziwei | Freya Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>Email: zv380022@gmail.com</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://freyavvv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>access</title>
-      <link>https://freyavvv.github.io/tags/access/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://freyavvv.github.io/tags/access/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>art</title>
-      <link>https://freyavvv.github.io/tags/art/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://freyavvv.github.io/tags/art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>database</title>
-      <link>https://freyavvv.github.io/tags/database/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://freyavvv.github.io/tags/database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>design</title>
-      <link>https://freyavvv.github.io/tags/design/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://freyavvv.github.io/tags/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://freyavvv.github.io/tags/development/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://freyavvv.github.io/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sketch</title>
-      <link>https://freyavvv.github.io/tags/sketch/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://freyavvv.github.io/tags/sketch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>web</title>
-      <link>https://freyavvv.github.io/tags/web/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://freyavvv.github.io/tags/web/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>Email: zv380022@gmail.com</copyright><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

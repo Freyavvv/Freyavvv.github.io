@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Ziwei | Freya Design</title>
-    <link>https://freyavvv.github.io/portfolio/</link>
+    <link>/portfolio/</link>
     <description>Recent content in Portfolio on Ziwei | Freya Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Email: zv380022@gmail.com</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://freyavvv.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Jun 2021 12:14:34 +0600</lastBuildDate><atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project Title</title>
-      <link>https://freyavvv.github.io/portfolio/project-1/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>Harbour</title>
+      <link>/portfolio/project-4/</link>
+      <pubDate>Tue, 29 Jun 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://freyavvv.github.io/portfolio/project-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/portfolio/project-4/</guid>
+      <description>Harbour(港湾），想法始于想要帮助疫情期间工作的心理医生更轻松，愉快的投入帮助有心理问题的患者。在整个小组工作中，我负责品牌的起名，案例研究，商业宣传广告的视频内容编辑，报告的撰写和同时参与主要功能的设计和UI设计修改意见以及排版活动。</description>
     </item>
     
     <item>
-      <title>Project Title</title>
-      <link>https://freyavvv.github.io/portfolio/project-2/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>Dash board</title>
+      <link>/portfolio/project-5/</link>
+      <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://freyavvv.github.io/portfolio/project-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/portfolio/project-5/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Project Title</title>
-      <link>https://freyavvv.github.io/portfolio/project-3/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>Weather Flower</title>
+      <link>/portfolio/project-1/</link>
+      <pubDate>Thu, 01 Apr 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://freyavvv.github.io/portfolio/project-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/portfolio/project-1/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Project Title</title>
-      <link>https://freyavvv.github.io/portfolio/project-4/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>3D</title>
+      <link>/portfolio/project-2/</link>
+      <pubDate>Tue, 01 Sep 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://freyavvv.github.io/portfolio/project-4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/portfolio/project-2/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Project Title</title>
-      <link>https://freyavvv.github.io/portfolio/project-5/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>Other Design</title>
+      <link>/portfolio/project-3/</link>
+      <pubDate>Sun, 12 Jul 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://freyavvv.github.io/portfolio/project-5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/portfolio/project-3/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Project Title</title>
-      <link>https://freyavvv.github.io/portfolio/project-6/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>Doing</title>
+      <link>/portfolio/project-6/</link>
+      <pubDate>Fri, 12 May 2000 12:14:34 +0600</pubDate>
       
-      <guid>https://freyavvv.github.io/portfolio/project-6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/portfolio/project-6/</guid>
+      <description></description>
     </item>
     
   </channel>
