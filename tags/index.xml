@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ziwei | Freya Design</title>
-    <link>/tags/</link>
+    <link>https://freyavvv.github.io/tags/</link>
     <description>Recent content in Tags on Ziwei | Freya Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>Email: zv380022@gmail.com</copyright><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Email: zv380022@gmail.com</copyright><atom:link href="https://freyavvv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
