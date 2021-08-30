@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Email: zv380022@gmail.com</copyright>
-    <lastBuildDate>Tue, 29 Jun 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://freyavvv.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Aug 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://freyavvv.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weather Flower</title>
+      <link>https://freyavvv.github.io/portfolio/project-6/</link>
+      <pubDate>Mon, 30 Aug 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://freyavvv.github.io/portfolio/project-6/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Harbour</title>
       <link>https://freyavvv.github.io/portfolio/project-4/</link>
@@ -50,15 +59,6 @@
       <pubDate>Sun, 12 Jul 2020 12:14:34 +0600</pubDate>
       
       <guid>https://freyavvv.github.io/portfolio/project-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://freyavvv.github.io/portfolio/project-6/</link>
-      <pubDate>Fri, 12 May 2000 12:14:34 +0600</pubDate>
-      
-      <guid>https://freyavvv.github.io/portfolio/project-6/</guid>
       <description></description>
     </item>
     
